@@ -44,7 +44,7 @@ print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 <br>
 #REF NO : 22007405
 
-![Screenshot (16)](https://user-images.githubusercontent.com/121040764/214200551-1a617bb7-86b4-4f0e-abfc-eeb89f501977.png)
+![Screenshot from 2023-01-24 23-06-56](https://user-images.githubusercontent.com/121040764/214368725-80eb8250-2530-4d2b-b079-cec0883f578d.png)
 
 
 
